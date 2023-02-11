@@ -1,2 +1,2 @@
 # pyt-bull
-Aquí estaran los programias que vaya construyendo en Python.
+Aquí estaran los programas que vaya construyendo en Python.
